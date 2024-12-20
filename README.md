@@ -15,4 +15,4 @@
 - **JavaScript**: для реализации функциональности.
 
 ## Демо
-По ссылке можно увидеть готовый проект: [Mesto Russia на GitHub Pages](https://roman23323.github.io/mestoProject/).
+По ссылке можно увидеть готовый проект: [Mesto Russia на GitHub Pages](https://roman23323.github.io/projectMesto/).
